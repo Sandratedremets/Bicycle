@@ -349,3 +349,7 @@ body {
 .clearfix {
   zoom: 1;
 }
+
+.article-image{
+  width: 70%;
+}
